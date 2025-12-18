@@ -31,6 +31,3 @@ I'm a passionate developer and data enthusiast skilled in **Data Science**, **Da
 ### 📫 Connect with Me
 
 - **Email**: [shayanraza2333@gmail.com](mailto:shayanraza2333@gmail.com)
-- **Projects**: Explore my repositories to see my work in Data Banking, Data Analysis, Data Science and more!
-
-Thanks for visiting my profile! 🚀
