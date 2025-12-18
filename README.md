@@ -1,6 +1,6 @@
 ### Hi there, I'm Shayan! 👋
 
-I'm a passionate developer interested in Database Management Systems, Data Banking, and creating intuitive user experiences.
+I'm a passionate developer and data enthusiast skilled in **Data Science**, **Database Management**, and building robust software solutions. I love turning complex data into actionable insights and creating efficient, user-centric applications.
 
 ---
 
@@ -20,6 +20,7 @@ I'm a passionate developer interested in Database Management Systems, Data Banki
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Data%20Science-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -30,6 +31,6 @@ I'm a passionate developer interested in Database Management Systems, Data Banki
 ### 📫 Connect with Me
 
 - **Email**: [shayanraza2333@gmail.com](mailto:shayanraza2333@gmail.com)
-- **Projects**: Check out my latest work on [Data Banking System](https://github.com/shayanRaza92/Data_Banking)
+- **Projects**: Explore my repositories to see my work in Data Banking, Data Analysis, and more!
 
 Thanks for visiting my profile! 🚀
