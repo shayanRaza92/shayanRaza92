@@ -16,14 +16,6 @@ I'm a passionate developer interested in Database Management Systems, Data Banki
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanRaza92&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
