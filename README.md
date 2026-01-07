@@ -2,14 +2,21 @@
 
 I'm a passionate developer and data enthusiast skilled in **Data Science**, **Database Management**, and building robust software solutions. I love turning complex data into actionable insights and creating efficient, user-centric applications.
 
----
-
 ### 📊 My GitHub Stats
 
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=vision-friendly-dark)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+<!-- Streak Stats (Alternative Service) -->
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=shayanRaza92&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages (Alternative Service) -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shayanRaza92&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Profile Details -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shayanRaza92&theme=radical" alt="Profile Details" />
 </p>
 
 ### 🛠️ Tech Stack
