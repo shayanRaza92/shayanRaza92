@@ -4,11 +4,6 @@ I'm a passionate developer and data enthusiast skilled in **Data Science**, **Da
 
 ### 📊 My GitHub Stats
 
-<!-- Streak Stats (Alternative Service) -->
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=shayanRaza92&theme=radical" alt="GitHub Streak" />
-</p>
-
 <!-- Top Languages (Alternative Service) -->
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shayanRaza92&theme=radical" alt="Top Languages" />
