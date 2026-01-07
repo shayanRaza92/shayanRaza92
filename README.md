@@ -6,10 +6,8 @@ I'm a passionate developer and data enthusiast skilled in **Data Science**, **Da
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=vision-friendly-dark)
-
 ### 📈 Top Languages
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=vision-friendly-dark)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanRaza92&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
