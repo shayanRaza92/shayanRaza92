@@ -1,6 +1,6 @@
 ### Hi there, I'm Shayan! 👋
 
-I'm a passionate developer and data enthusiast skilled in **Data Science**, **Database Management**, and building robust software solutions. I love turning complex data into actionable insights and creating efficient, user-centric applications.
+I'm a passionate developer and data enthusiast skilled in building robust software solutions. I love turning complex data into actionable insights and creating efficient, user-centric applications.
 
 ### 📊 My GitHub Stats
 
